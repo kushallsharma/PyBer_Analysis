@@ -28,7 +28,6 @@ Total Rides are the highest in the urban cities, while lowest in the rural citie
 Total Drivers are also highest in urban cities and lowest in rural cities. 
 
 Total fare is also following the trend of total rides and drivers and have highest amount for urban cities and lowest for rural cities. 
-1.6 1.27 .6
 
 Average fare per ride is comparatively higher for rural and suburban cities when compared to that of urban cities. It is a disparity among the different type of cities that ride in rural and suburban are costlier than urban cities. 
 
